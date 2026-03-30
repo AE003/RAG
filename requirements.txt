@@ -1,0 +1,11 @@
+streamlit
+pymupdf
+python-docx
+python-pptx
+pytesseract
+pillow
+camelot-py[cv]
+langchain
+chromadb
+openai
+python-dotenv
